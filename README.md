@@ -1,4 +1,5 @@
-# :wave: The Basics of GitHub 
+  [good coffe shop around campus recommendation please!]
+  # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
